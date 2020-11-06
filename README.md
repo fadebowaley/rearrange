@@ -1,4 +1,4 @@
 # rearrange
 
 This is used for rearranging the names 
-We need to ensure  we do it rightly
+Turns FirstName to Lastname and LastName to FirstName
